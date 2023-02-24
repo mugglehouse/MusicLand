@@ -22,7 +22,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ****************************************** *MusicLand* *****************************************
 
-线上预览地址：http://47.106.123.198:82/
+线上预览地址：http://47.106.123.198:80/
+网易云开放接口：https://binaryify.github.io/NeteaseCloudMusicApi/#/
 
 ****************************************** *MusicLand* *****************************************
 
